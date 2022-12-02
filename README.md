@@ -4,7 +4,7 @@ A classwork example in which I use JavaScript to make a dynamic table
 ---
 
 # Overview
-This is where the overview will go
+I was asked to create a table organizing UFO data that was originally stored as a JavaScript array. This table lets you filter UFO sighting data from early 2010 based on date, city, state, country, or shape of the UFO. Using JavaScript integration on an HTML webpage, this website will be available for those who are interested in viewing UFO sighting data easily and quickly. 
 
 ## Purpose
 Adding city, state, country, and shape filter search boxes on this webpage will make searching the UFO sighting results user friendly. The goal is to create an easy to use webpage to help our users search for data to help them find specific sightings or aggregate common factors. Filtering for multiple items at the same time will also be beneficial to users who are interested in further analysis of UFO sighting patterns and history. 
