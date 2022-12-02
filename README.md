@@ -16,6 +16,9 @@ You can perform a search on this webpage by typing in a search term to the appro
 ![ufo_screenshot_2](/static/images/ufo_screenshot_2.png)
 ![ufo_screenshot_1](/static/images/ufo_screenshot_1.png)
 
+After a search:
+![ufo_screenshot_3](/static/images/ufo_screenshot_3.png)
+
 # Summary 
 Unfortunately, this webpage as it stands does not have a "Search" or "Go" button to complete the search. Users will need to know to click Enter or to left click out of the text box to finish the search. Adding a button would be a simple fix to the requested design and would make the site more attractive to use as well as user friendly. 
 
